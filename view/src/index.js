@@ -1,0 +1,1 @@
+global.nomnoml = require('nomnoml')
